@@ -1,0 +1,14 @@
+{
+  "name": "MY-SERVER",
+  "version": "1.0.0",
+  "description": "Bem Vindo ao Back-End.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Labenu-Rafael-Bento",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
